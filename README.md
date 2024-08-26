@@ -1,0 +1,2 @@
+# GenerationETCode
+省去创建脚本以及初始化ReferenceCollector的初始化代码
